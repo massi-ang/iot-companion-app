@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "companion-app-dev-20191014171203-authRole",
+            "UnauthRoleArn": "arn:aws:iam::600838320432:role/companion-app-dev-20191014171203-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::600838320432:role/companion-app-dev-20191014171203-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "companion-app-dev-20191014171203-deployment",
+            "UnauthRoleName": "companion-app-dev-20191014171203-unauthRole",
+            "StackName": "companion-app-dev-20191014171203",
+            "StackId": "arn:aws:cloudformation:us-east-1:600838320432:stack/companion-app-dev-20191014171203/fae653c0-ee94-11e9-b18e-0e05d1a3c102"
+        },
+        "categories": {
+            "auth": {
+                "companionapp5d2d6584": {}
+            }
+        }
+    }
+}
