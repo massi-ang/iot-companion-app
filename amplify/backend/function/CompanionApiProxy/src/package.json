@@ -7,7 +7,7 @@
     "aws-serverless-express": "^3.3.5",
     "axios": "^1.6.0",
     "body-parser": "^1.20.1",
-    "express": "^4.17.3"
+    "express": "^4.19.2"
   },
   "devDependencies": {},
   "scripts": {
